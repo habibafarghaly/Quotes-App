@@ -6,20 +6,27 @@ var author = document.getElementById("author");
 // Variables
 var Quotes = [
     {
-        quote:"The only way to do great work is to love what you do.",
-        author: "Steve Jobs"
+        quote:"بعض القصص يجب أن تُروى لتكتمل",
+        author: "Sara Abd Elhameed"
     },
     {
-        quote:"In the end, we will remember not the words of our enemies, but the silence of our friends.",
-        author: "Martin Luther King Jr."
+        quote:"حينما يكتشف الإنسان أنه يطارد وهماً بدلاً من حلم،سيكفُّ بكاءه عليه،ويبكي خيبته عوضاً عن ذلك.",
+        author: "Sara Abd Elhameed"
     },
     {
-        quote:"The future belongs to those who believe in the beauty of their dreams.",
-        author: "Eleanor Roosevelt"
+        quote:"يملك المحبون عيون سحرية يخفون فيها صورة احبائهم لتتسني لهم رؤيتهم حين يغيبون عن انظارهم",
+        author: "Sara Abd Elhameed"
     },
     {
-        quote:"The best way to predict the future is to invent it.",
-        author: "Alan Kay"
+        quote:"والحقيقة الوحيدة فى تلك الحياة هى الموت.
+حتى لا تُهلكك أفكارك، حتى تنجو أو ينجو ما تبقى منك ،الدنيا ليست دار عدل، لا تبحث عنه هنا ، لا حقائق ،لا ثوابت، لا تفكر أكثر من اللازم أو تنتظر أن ينتصر الحق أو الصواب ، لا كل صواب جائز ولا كل مظلوم منتصر ، حينما يؤلمك قلبك يمكنك الإنسحاب أحيانا أن تنجو بنفسك أكبر تضحية.",
+        author: "Sara Abd Elhameed"
+    },
+    {
+        quote:"أبناء الحرام ليسوا من وُلدوا بأنساب مجهولة لا حول لهم ولا قوة..
+بل من يرتكبون الحرام أو يبتلعونه في بطونهم 
+من يفترون على الضعفاء بلا ذنب، محاولين إشعارهم بخزي لا يستحقونه",
+        author: "Sara Abd Elhameed"
     }
 ]
 
@@ -46,3 +53,4 @@ function changeButtonColor(){
   }, 250);
 
 }
+
